@@ -75,6 +75,3 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
     uvicorn main:app --reload
     ```
     Buka browser Anda dan kunjungi `http://127.0.0.1:8000`.
-
-### 👤 Kontributor
-* **[Nama Lengkap Anda]** - `[Link ke Profil GitHub atau LinkedIn Anda]`
