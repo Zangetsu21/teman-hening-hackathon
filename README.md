@@ -7,7 +7,7 @@ Proyek ini dibuat untuk **elevAIte with Dicoding Online Hackathon 2025** dengan 
 
 ---
 
-![Demo Aplikasi Teman Hening]([https://photos.app.goo.gl/xGm8UxSKJj1E3Y5Z7])
+![Demo Aplikasi Teman Hening](./demo.gif)
 
 ### 📖 Tentang Proyek
 **Teman Hening** adalah aplikasi web interaktif yang berfungsi sebagai teman AI (AI Companion). Proyek ini lahir dari keprihatinan terhadap isu kesehatan mental di Indonesia, khususnya yang dipicu oleh stres dan dampak negatif judi online. Menyadari adanya stigma yang menghalangi banyak orang untuk mencari bantuan, Teman Hening hadir sebagai "pertolongan pertama digital" yang anonim, mudah diakses, dan proaktif dalam memberikan dukungan.
